@@ -8,8 +8,10 @@
 
 **School:** University of California, San Diego  
 **Major:** Computer Engineering  
-**Contact Information:** ethanlee7102@gmail.com, [My Github](https://github.com/ethanlee7102), [My Linkedin](www.linkedin.com/in/ethan-lee-7a434b2b9)
+**Contact Information:** ethanlee7102@gmail.com, [My Github](https://github.com/ethanlee7102), [My Linkedin](www.linkedin.com/in/ethan-lee-7a434b2b9)  
 
+Learn More about me as a programmer [here](https://github.com/ethanlee7102/CSE110Page/blob/main/index.md#about-me-as-a-programmer)
+Learn More about me as a [here](https://github.com/ethanlee7102/CSE110Page/blob/main/index.md#about-me-as-a-person)
 ## About Me as a Programmer  
 I am currently a 4th Year at UCSD. My programming journey began in college when I typed `Hello World!` for this first time.
 
