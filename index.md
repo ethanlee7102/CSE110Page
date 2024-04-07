@@ -7,7 +7,7 @@ You must have come from my [README.md](README.md)
 
 
 **Photo of me:**  
-![Image]()
+![Image](IMG_1751.jpg)
 
 **School:** University of California, San Diego  
 **Major:** Computer Engineering  
